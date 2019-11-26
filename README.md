@@ -9,3 +9,7 @@ To run application :
 velocity template file location: /src/conf.tpl.txt  
 
 velocity template output file location: /src/conf.tpl.output.txt  
+
+To open in online ide:
+
+https://gitpod.io/#https://github.com/sudeepcv/velocity-HelloWorld
