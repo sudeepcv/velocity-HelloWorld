@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="com.sudeep.AppTest" time="0.002" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="com.sudeep.AppTest" time="0.004" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/home/gitpod/.sdkman/candidates/java/8.0.202-zulufx/jre/lib/amd64"/>
@@ -61,5 +61,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.sudeep.AppTest" name="shouldAnswerWithTrue" time="0.002"/>
+  <testcase classname="com.sudeep.AppTest" name="shouldAnswerWithTrue" time="0.004"/>
 </testsuite>
