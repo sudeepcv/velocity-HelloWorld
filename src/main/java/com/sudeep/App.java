@@ -17,6 +17,7 @@ public class App {
         FileWriter writer = new FileWriter(new File("./src/conf.tpl.output.txt"));
         context.put("NAME", "Sudeep");
         context.put("COMPANY", "Vodafone");
+        context.put("CONDITION",false);
         template.merge(context, writer);
         writer.flush();
         writer.close();

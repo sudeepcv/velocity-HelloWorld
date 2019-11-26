@@ -1,1 +1,5 @@
 Hi, ${NAME} welcome to ${COMPANY}
+
+#if( $CONDITION )
+  <strong>Velocity!</strong>
+#end
